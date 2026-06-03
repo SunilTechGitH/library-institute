@@ -1,0 +1,23 @@
+.slider-image {
+  height: 520px;
+  object-fit: cover;
+  filter: brightness(0.85);
+}
+
+.carousel-caption {
+  background: rgba(26, 58, 92, 0.65);
+  padding: 16px 24px;
+  border-radius: 8px;
+  border-left: 4px solid #c9a84c;
+}
+
+.carousel-caption h2 {
+  font-family: 'Playfair Display', serif;
+  color: #fff;
+  font-size: 1.6rem;
+}
+
+.carousel-caption p {
+  color: #e8dfc4;
+  font-size: 0.95rem;
+}
